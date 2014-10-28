@@ -1,0 +1,5 @@
+BeautifulSoup==3.2.1
+argparse==1.2.1
+selenium==2.43.0
+splinter==0.6.0
+wsgiref==0.1.2
